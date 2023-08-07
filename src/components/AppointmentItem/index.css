@@ -1,0 +1,19 @@
+.list-container {
+  border: 1px solid #b5b7f0;
+  border-radius: 10px;
+  list-style-type: none;
+  margin-bottom: 12px;
+  padding: 10px;
+}
+.item-container {
+  width: 100%;
+  display: flex;
+  margin-bottom: 6px;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #171f46;
+}
